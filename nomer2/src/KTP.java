@@ -19,7 +19,7 @@ public class KTP {
         }
     public void setTGl_lhr(String[]tanggallahir){
             int hari,bulan,tahun;
-            this.tanggallahir=
+            this.tanggallahir=(hari,bulan,tahun);
         }
     }
 }
